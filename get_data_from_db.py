@@ -109,11 +109,11 @@ print("Initializing database module...") # See when this runs
 
 # --- Database Configuration ---
 db_config = {
-    'user': 'root',
-    'password': 'HnAm2002#@!',
-    'host': 'localhost',
-    'port': 3306,  # Added default MySQL port
-    'database': 'EdtechAgency_Ranking2025',
+    'user': 'edte_admin',
+    'password': 'vNN*+2%Du@idhH%w', # Original password
+    'host': '13.214.140.159',
+    'database': 'edte_EA_Ranking2025',
+    'port': 3306 # Explicitly add the default port for clarity
 }
 
 # --- Engine Creation Helper ---
